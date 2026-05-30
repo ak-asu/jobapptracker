@@ -8,6 +8,14 @@ A React Native mobile app for browsing and tracking job listings, built with Exp
 
 ---
 
+## Screenshots
+
+**Search**
+
+![Search](assets/screenshots/search.png) |
+
+---
+
 ## Overview
 
 Job App Tracker is a mobile-first job discovery interface built for job seekers who want a clean, focused experience on iOS and Android. The app surfaces recent job listings, lets users filter by employment type, and provides a search bar to query by keyword. It is built on Expo's managed workflow, making it runnable on physical devices via QR code without any native build toolchain.
